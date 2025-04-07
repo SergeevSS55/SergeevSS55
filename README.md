@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+### :man_technologist: About Me :
+I am a Web Developer from Russia.
 <!--
 **SergeevSS55/SergeevSS55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
