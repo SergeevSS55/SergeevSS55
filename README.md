@@ -6,6 +6,11 @@
   Hey there, I'm Sergei
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div id="badges">
+  <a href="https://t.me/SSergeevS">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 <!--
 **SergeevSS55/SergeevSS55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
